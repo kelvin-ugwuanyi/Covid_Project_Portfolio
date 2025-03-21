@@ -15,3 +15,6 @@ The analysis will focus on:
 2. Continental Trends – Identifying the continents with the highest and lowest infection rates.
 3. Most Affected Countries – Highlighting the countries with the highest number of recorded infections.
 4. Population Impact & Forecasting – Examining the percentage of the population infected and predicting potential trends if vaccines had not been developed.
+
+
+Click [Here](https://github.com/kelvin-ugwuanyi/Covid_Project_Portfolio/blob/main/PorfolioProject1.sql) for the sql queries 
