@@ -16,5 +16,36 @@ The analysis will focus on:
 3. Most Affected Countries – Highlighting the countries with the highest number of recorded infections.
 4. Population Impact & Forecasting – Examining the percentage of the population infected and predicting potential trends if vaccines had not been developed.
 
+### Skills/concepts demonstrated
+Here are some key skills and concepts that I demonstrated using Tableau and SQL for the analyzing COVID-19 data:
 
-Click [Here](https://github.com/kelvin-ugwuanyi/Covid_Project_Portfolio/blob/main/PorfolioProject1.sql) for the sql queries 
+#### SQL Skills & Concepts demonstrated
+- Data Cleaning & Preparation –  For handling missing values, duplicates, and inconsistencies in datasets.
+- Data Extraction & Transformation (ETL) – Importing, filtering, and structuring data for analysis.
+- Aggregation & Grouping – Using GROUP BY, SUM(), COUNT(), etc., to calculate totals.
+
+#### Tableau Skills & Concepts demonstrated
+- Data Visualization – Creating interactive dashboards with charts, maps, and graphs.
+- Time Series Analysis – Visualizing COVID-19 case trends over time.
+- Geospatial Analysis – Mapping infection and death rates by country.
+- Forecasting & Predictive Analysis – Using Tableau’s built-in forecasting models to predict potential cases if vaccines were not developed.
+
+Click [Here](https://github.com/kelvin-ugwuanyi/Covid_Project_Portfolio/blob/main/PorfolioProject1.sql) for the sql queries.
+
+## Visualization
+The report is presented on a single page.
+![](Tableaucovidproject.png.png)
+
+## Analysis
+
+### Global Statistics
+- Total Cases: Over 150 million recorded cases worldwide.
+- Total Deaths: More than 3 million deaths.
+- Global Death Rate: 2.11% mortality rate.
+### Most & Least Affected Continents
+- Most Affected: Europe recorded the highest number of cases, exceeding 1 million infections.
+- Least Affected: Oceania had the lowest number of recorded cases.
+### Countries with the Highest Infection Rates
+- Most Affected Country: The United States had the highest infection rate, recording 9.77% of its population infected.
+### Forecasting Without Vaccines
+- If vaccines had not been developed, the United States would have been the most severely impacted, followed by the United Kingdom.
